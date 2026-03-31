@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: nginx-container
-        image: dulina03/htmlpage2:v26
+        image: dulina03/htmlpage2:v28
         ports:
         - containerPort: 80
         resources:
